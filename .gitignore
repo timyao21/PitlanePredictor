@@ -1,0 +1,22 @@
+# FastF1 cache
+.cache/
+~/.cache/fastf1/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# macOS
+.DS_Store
+
+# predictions output (optional: remove this line if you want to track predictions.json)
+# predictions.json
